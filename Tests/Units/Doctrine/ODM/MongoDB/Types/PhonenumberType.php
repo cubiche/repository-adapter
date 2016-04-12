@@ -11,7 +11,7 @@
 namespace Cubiche\Infrastructure\Repository\Tests\Units\Doctrine\ODM\MongoDB\Types;
 
 use Cubiche\Domain\Repository\Tests\Fixtures\Phonenumber;
-use Cubiche\Infrastructure\Model\Persistence\Doctrine\ODM\MongoDB\Types\NativeValueObjectType;
+use Cubiche\Infrastructure\Model\Doctrine\ODM\MongoDB\Types\NativeValueObjectType;
 
 /**
  * Phonenumber Type Class.
